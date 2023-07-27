@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hDLHpGqa28ggD1Ow26hoyvTxX5UQTc7HvceEbtLrtN0=",
+  "Source": "DemoSignalrChatServer",
+  "BasePath": "_content/DemoSignalrChatServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
